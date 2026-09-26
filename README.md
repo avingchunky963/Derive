@@ -220,4 +220,4 @@ Derive is offered as a complete free version with all features and updates inclu
 Ready to enhance your mathematics experience? [Download Derive for free now!](https://www.softyne.com/derive)
 
 ---
-**Last updated:** 2026-09-26 14:07:44 UTC
+**Last updated:** 2026-09-26 18:20:39 UTC
